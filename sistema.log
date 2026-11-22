@@ -1,0 +1,60 @@
+2026-11-10 23:45:23,812 - INFO - Operación 1 exitosa: Cliente registrado.
+2026-11-10 23:45:23,812 - WARNING - Operación 2 manejada correctamente: Nombre de cliente inválido: 'Jo'. Debe tener al menos 3 caracteres.
+2026-11-10 23:45:23,812 - INFO - Operación 3 exitosa: Servicio de sala creado.
+2026-11-10 23:45:23,812 - WARNING - Operación 4 manejada correctamente: El costo base no puede ser negativo: -100.0
+2026-11-10 23:45:23,813 - INFO - Operación 5 exitosa: Alquiler de equipo creado.
+2026-11-10 23:45:23,813 - INFO - Operación 6 exitosa: Asesoría creada.
+2026-11-10 23:45:23,813 - INFO - Iniciando procesamiento de reserva R001
+2026-11-10 23:45:23,813 - INFO - Reserva R001 confirmada con éxito por un valor de $190400.00
+2026-11-10 23:45:23,814 - INFO - Iniciando procesamiento de reserva R002
+2026-11-10 23:45:23,814 - ERROR - Error controlado en reserva R002: Error al calcular costo de sala ID S100
+2026-11-10 23:45:23,814 - INFO - Iniciando procesamiento de reserva R003
+2026-11-10 23:45:23,814 - INFO - Reserva R003 confirmada con éxito por un valor de $157500.00
+2026-11-10 23:45:23,814 - INFO - Iniciando procesamiento de reserva R004
+2026-11-10 23:45:23,815 - INFO - Reserva R004 confirmada con éxito por un valor de $300000.00
+2026-11-21 00:20:14,321 - INFO - Cliente registrado en el sistema.
+2026-11-21 00:20:14,322 - INFO - Operación 1 exitosa: Cliente registrado.
+2026-11-21 00:20:14,322 - WARNING - Operación 2 manejada correctamente: Nombre de cliente inválido: 'Jo'. Debe tener al menos 3 caracteres.
+2026-11-21 00:20:14,323 - INFO - Servicio registrado en el sistema.
+2026-11-21 00:20:14,323 - INFO - Operación 3 exitosa: Servicio de sala creado.
+2026-11-21 00:20:14,324 - WARNING - Operación 4 manejada correctamente: El costo base no puede ser negativo: -100.0
+2026-11-21 00:20:14,324 - INFO - Servicio registrado en el sistema.
+2026-11-21 00:20:14,324 - INFO - Operación 5 exitosa: Alquiler de equipo creado.
+2026-11-21 00:20:14,325 - INFO - Servicio registrado en el sistema.
+2026-11-21 00:20:14,325 - INFO - Operación 6 exitosa: Asesoría creada.
+2026-11-21 00:20:14,325 - INFO - Cliente registrado en el sistema.
+2026-11-21 00:20:14,325 - INFO - Servicio registrado en el sistema.
+2026-11-21 00:20:14,326 - INFO - Reserva registrada en el sistema.
+2026-11-21 00:20:14,326 - INFO - Iniciando procesamiento de reserva R001
+2026-11-21 00:20:14,326 - INFO - Reserva R001 confirmada con éxito por un valor de $190400.00
+2026-11-21 00:20:14,326 - INFO - Iniciando procesamiento de reserva R002
+2026-11-21 00:20:14,327 - ERROR - Error controlado en reserva R002: Error al calcular costo de sala ID S100
+2026-11-21 00:20:14,327 - INFO - Reserva registrada en el sistema.
+2026-11-21 00:20:14,327 - INFO - Iniciando procesamiento de reserva R003
+2026-11-21 00:20:14,328 - INFO - Reserva R003 confirmada con éxito por un valor de $157500.00
+2026-11-21 00:20:14,328 - INFO - Reserva registrada en el sistema.
+2026-11-21 00:20:14,328 - INFO - Iniciando procesamiento de reserva R004
+2026-11-21 00:20:14,329 - INFO - Reserva R004 confirmada con éxito por un valor de $300000.00
+2026-11-21 00:27:14,544 - INFO - Cliente registrado en el sistema.
+2026-11-21 00:27:14,544 - INFO - Operación 1 exitosa: Cliente registrado.
+2026-11-21 00:27:14,545 - WARNING - Operación 2 manejada correctamente: Nombre de cliente inválido: 'Jo'. Debe tener al menos 3 caracteres.
+2026-11-21 00:27:14,545 - INFO - Servicio registrado en el sistema.
+2026-11-21 00:27:14,545 - INFO - Operación 3 exitosa: Servicio de sala creado.
+2026-11-21 00:27:14,546 - WARNING - Operación 4 manejada correctamente: El costo base no puede ser negativo: -100.0
+2026-11-21 00:27:14,546 - INFO - Servicio registrado en el sistema.
+2026-11-21 00:27:14,547 - INFO - Operación 5 exitosa: Alquiler de equipo creado.
+2026-11-21 00:27:14,547 - INFO - Servicio registrado en el sistema.
+2026-11-21 00:27:14,547 - INFO - Operación 6 exitosa: Asesoría creada.
+2026-11-21 00:27:14,548 - INFO - Cliente registrado en el sistema.
+2026-11-21 00:27:14,548 - INFO - Servicio registrado en el sistema.
+2026-11-21 00:27:14,548 - INFO - Reserva registrada en el sistema.
+2026-11-21 00:27:14,548 - INFO - Iniciando procesamiento de reserva R001
+2026-11-21 00:27:14,549 - INFO - Reserva R001 confirmada con éxito por un valor de $190400.00
+2026-11-21 00:27:14,549 - INFO - Iniciando procesamiento de reserva R002
+2026-11-21 00:27:14,549 - ERROR - Error controlado en reserva R002: Error al calcular costo de sala ID S100
+2026-11-21 00:27:14,550 - INFO - Reserva registrada en el sistema.
+2026-11-21 00:27:14,550 - INFO - Iniciando procesamiento de reserva R003
+2026-11-21 00:27:14,550 - INFO - Reserva R003 confirmada con éxito por un valor de $157500.00
+2026-11-21 00:27:14,551 - INFO - Reserva registrada en el sistema.
+2026-11-21 00:27:14,551 - INFO - Iniciando procesamiento de reserva R004
+2026-11-21 00:27:14,551 - INFO - Reserva R004 confirmada con éxito por un valor de $300000.00
